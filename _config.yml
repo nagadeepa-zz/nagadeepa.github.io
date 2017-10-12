@@ -1,34 +1,54 @@
-# Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
-author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+# Site wide configuration
 
-# Build settings
-baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
-markdown: kramdown
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 8
-paginate_path: /page:num/
+title: Daniel Shin
+locale: en_US
+description: Data Scientist and Researcher, NYC
+logo: fast_data_brain_tree.png
+search: true
+url:
 
-# Default values
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+# Jekyll configuration
 
-# Custom variables
-version: "1.1.0"
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
 
-# Options
-custom_header: false
-custom_nav_footer: false
-reverse: false
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Daniel Shin
+  avatar: bio-photo.jpg
+  email: danieldshin@gmail.com
+  disqus-shortname:
+  twitter: dshin_nyc #username
+  facebook: #username
+  github: dshincd #username
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: dshincd #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics: "UA-62744527-1"
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:

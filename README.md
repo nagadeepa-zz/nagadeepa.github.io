@@ -1,35 +1,30 @@
-## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+# So Simple Theme
 
-![Emerald](/img/Emerald01.png "Emerald")
+Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
-## Setup & usage
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+[![Build Status](https://travis-ci.org/mmistakes/so-simple-theme.svg?branch=master)](https://travis-ci.org/mmistakes/so-simple-theme)
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
+## So Simple Theme is all about:
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root.
+* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
+* Minimal embellishments and subtle animations.
+* Optional large feature images for posts and pages.
+* [Custom 404 page](http://mmistakes.github.io/so-simple-theme/404.html) to get you started.
+* Basic [search capabilities](https://github.com/mathaywarduk/jekyll-search)
+* Support for Disqus Comments
 
-### Branch
-Emerald has two branch: 
-- ``master``: is for developing pourpose.
-- ``gh-pages``: is only for demo site.  
+![screenshot of So Simple Theme](http://mmistakes.github.io/so-simple-theme/images/so-simple-theme-preview.jpg)
 
-### Baseurl
-Emerald was thought to be used mainly with Github, in particular into [project site](https://pages.github.com/). For this reason several tags have been included ``{{ site.baseurl }}`` to refer to the "/emerald/" directory.
-You can change the "baseurl" value into the ``config.yml`` file, to match your directory (for example "/blog/") or the root of your project. In that case you must set the "baseurl" value to "/".
+See a [live version of So Simple](http://mmistakes.github.io/so-simple-theme/) hosted on GitHub.
 
-### Typography
-To maintain the vertical rhythm, it has been applied a **Typographic scale** as a modular scale, with a baseline set to 24px. To maintain this rhythm you need to insert elements like image, video or other contents with a 24px (or multiple) height as refer.
+---
 
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point! 
+## Getting Started
 
-## Author
+So Simple takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
 
-### Jacopo Rabolini
+To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/so-simple-theme/theme-setup/) for more information.
 
-- Web site: [www.jacoporabolini.com](http://www.jacoporabolini.com)
-- Google+: [+JacopoRabolini](https://plus.google.com/u/0/+JacopoRabolini/posts)
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-## License
-Emerald is released under [MIT License](license.md).
