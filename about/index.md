@@ -4,9 +4,9 @@ title: About me
 excerpt: "My journey as a data scientist"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: nycimage.jpg
-  credit: New York Panorama
-  creditlink: http://newyorkpanorama.com/page/5/
+  feature: seattle.jpg
+  credit: Seattle Panorama
+  creditlink: https://en.wikipedia.org/wiki/Kerry_Park_(Seattle)
 ---
 
 My name is Nagadeepa Shanmuganathan, and I am a data scientist in Seattle. 
