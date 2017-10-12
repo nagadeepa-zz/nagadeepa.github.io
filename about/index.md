@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-excerpt: "A little about me and my journey as a data scientist"
+excerpt: "My journey as a data scientist"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: nycimage.jpg
@@ -9,8 +9,9 @@ image:
   creditlink: http://newyorkpanorama.com/page/5/
 ---
 
-My name is Daniel Shin, and I am a data scientist in New York City. After working as a biomedical researcher for 4 years, I decided I wanted to apply my quantitative and programming skills to solve more tangible business problems.
+My name is Nagadeepa Shanmuganathan, and I am a data scientist in Seattle. 
 
-My interests brought me to a data science bootcamp, where I am currently building my skills in Python, machine learning, and data analysis. This blog will record a lot of the work I do throughout the bootcamp, as well as things I find interesting along the way.
+My interests brought me to a data science Masters from Northwestern University, where I learnt 
+This blog will record a lot of the work/research I do throughout my journey as a data scientist, as well as things I find interesting along the way.
 
 I hope you enjoy!
