@@ -6,7 +6,7 @@ modified:
 image:
   feature: seattle.jpg
   credit: Seattle Panorama
-  creditlink: https://en.wikipedia.org/wiki/Kerry_Park_(Seattle)
+  creditlink: http://www.aribrownest.com/wp-content/uploads/2010/03/seattle-skyline-panorama-kerry-park-large.jpg
 ---
 
 My name is Nagadeepa Shanmuganathan, and I am a data scientist in Seattle. 
