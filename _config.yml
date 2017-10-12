@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Daniel Shin
+title: Nagadeepa S
 locale: en_US
-description: Data Scientist and Researcher, NYC
+description: Data Scientist and Researcher, Seattle
 logo: fast_data_brain_tree.png
 search: true
 url:
@@ -31,15 +31,15 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Daniel Shin
+  name: Nagadeepa Shanmuganathan
   avatar: bio-photo.jpg
-  email: danieldshin@gmail.com
+  email: 
   disqus-shortname:
-  twitter: dshin_nyc #username
+  twitter:  #username
   facebook: #username
-  github: dshincd #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: dshincd #username
+  github:  #username
+  stackexchange: 
+  linkedin:  #username
   instagram: #username
   flickr: #username
   tumblr: #username
@@ -47,7 +47,7 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics: "UA-62744527-1"
+    analytics: " "
     verify:
     ad-client:
     ad-slot:
