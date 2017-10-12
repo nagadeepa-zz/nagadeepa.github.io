@@ -2,7 +2,7 @@
 layout: page
 title: About me
 excerpt: "My journey as a data scientist"
-modified: 2014-08-08T19:44:38.564948-04:00
+modified: 
 image:
   feature: seattle.jpg
   credit: Seattle Panorama
