@@ -11,7 +11,7 @@ image:
 
 My name is Nagadeepa and I am a Data scientist from Seattle. 
 
-My interests brought me to a data science Masters from Northwestern University, where I learnt about Machine Learning & Statistical Analysis of Data. 
+My interests brought me to a data science Masters from Northwestern University, where I learnt about Machine Learning & Statistical Analysis of Big Data. 
 I am interested in Deep Learning and Artificial Intelligence.
 This blog will record a lot of the work/research about Artificial Intelligence I do throughout my journey as a data scientist, as well as things I find interesting along the way.
 
